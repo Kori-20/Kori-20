@@ -1,4 +1,4 @@
-:sunglasses: @Kori-20 :ice_cube: <br/>
+@Kori-20 :ice_cube: <br/>
 Im currently studying videogames:joystick: and multimedia:movie_camera: <br/>
 I work mostly on game coding:video_game: and visual effects for games:sparkles: <br/>
 
