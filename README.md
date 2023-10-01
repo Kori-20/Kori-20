@@ -6,7 +6,7 @@ I work mostly on game coding:video_game:and visual effects:sparkles:for games�
 
 - 🐤 [Twitter/X](https://twitter.com/KoriCoder)
 - ✏️ [ArtStation](https://www.artstation.com/francisconeves5)
-- 📺 [YouTube](https://www.youtube.com/@KoriNeves/about)
+- 📺 [YouTube](https://www.youtube.com/@KoriNeves)
 - 📑 [Portfolio](https://kori-20.github.io/)
 
 <!---
