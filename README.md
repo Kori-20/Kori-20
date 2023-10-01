@@ -4,10 +4,10 @@ I work mostly on game coding:video_game:and visual effects:sparkles:for games�
 
 ### Connect with me:
 
-- 🐤 Twitter/X: [Twitter Profile](https://twitter.com/KoriCoder)
-- ✏️ ArtStation: [ArtStation Profile](https://www.artstation.com/francisconeves5)
-- 📺 Youtube: [YouTube Profile](https://www.youtube.com/@KoriNeves/about)
-- 📑 Portfolio: [Portfolio Website](https://kori-20.github.io/)
+- 🐤 [Twitter/X](https://twitter.com/KoriCoder)
+- ✏️ [ArtStation](https://www.artstation.com/francisconeves5)
+- 📺 [YouTube](https://www.youtube.com/@KoriNeves/about)
+- 📑 [Portfolio](https://kori-20.github.io/)
 
 <!---
 Kori-20/Kori-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
