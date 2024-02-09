@@ -1,6 +1,6 @@
 @Kori-20 :ice_cube: <br/>
-Im currently studying videogames :joystick: and multimedia<br/>
-I work mostly on game codingand visual effectsfor games <br/>
+I'm currently studying videogames :joystick: and multimedia<br/>
+I work mostly on game coding and visual effects for games <br/>
 
 ### Connect with me:
 
