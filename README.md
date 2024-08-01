@@ -1,9 +1,8 @@
-@Kori-20 :ice_cube: <br/>
-I'm currently studying videogames :joystick: and multimedia<br/>
-I work mostly on game coding and visual effects for games <br/>
+:ice_cube: <br/>
+Game Developer, VFX Artist & Cyber Security Student<br/>
+I work mostly on code and vissual effects for games<br/>
 
 ### Connect with me:
-
 - 🐤 [Twitter/X](https://twitter.com/KoriCoder)
 - ✏️ [ArtStation](https://www.artstation.com/francisconeves5)
 - 📺 [YouTube](https://www.youtube.com/@KoriNeves)
