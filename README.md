@@ -1,6 +1,6 @@
 :ice_cube: <br/>
 Game Developer, VFX Artist & Cyber Security Student<br/>
-I work mostly on code and vissual effects for games<br/>
+I work mostly on code and visual effects for games<br/>
 
 ### Connect with me:
 - 🐤 [Twitter/X](https://twitter.com/KoriCoder)
