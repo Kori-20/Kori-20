@@ -4,7 +4,7 @@
 - Game VFX Artist
 - Cyber Security Student
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-neves-2a67b125a/)
 [![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KoriCoder)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KoriNeves/featured)
@@ -16,12 +16,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# 👾 Game Engines:
+## 👾 Game Engines:
 ![Unity](https://camo.githubusercontent.com/068c1b9e7dceb1b53a9b97c853e1f0d8cd714b6533966ad4796eea632a864d32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465)
 ![Unreal](https://camo.githubusercontent.com/b4ed6a9e36a906d3736c8dd20c500fc0d854f4dd634892da8adabb4288d44044/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e7265616c20456e67696e652d3331333133313f7374796c653d666f722d7468652d6261646765266c6f676f3d756e7265616c656e67696e65266c6f676f436f6c6f723d7768697465)
 
 
-# 💻 Software:
+## 💻 Software:
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
