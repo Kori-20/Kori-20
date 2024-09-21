@@ -1,6 +1,6 @@
 # 🧊 About Me:
-- Game Developer
-- VFX Artist
+- Game Programmer
+- Game VFX Artist
 - Cyber Security Student
 
 ## 🌐 Socials:
