@@ -25,11 +25,6 @@ Game Developer, VFX Artist & Cyber Security Student<br>I work mostly on code and
 [![](https://visitcount.itsvg.in/api?id=Kori-20&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Connect with me:
-- 🐤 [Twitter/X](https://twitter.com/KoriCoder)
-- ✏️ [ArtStation](https://www.artstation.com/francisconeves5)
-- 📺 [YouTube](https://www.youtube.com/@KoriNeves)
-- 📑 [Portfolio](https://kori-20.github.io/)
 
 <!---
 Kori-20/Kori-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
