@@ -1,5 +1,7 @@
 # 🧊 About Me:
-Game Developer, VFX Artist & Cyber Security Student<br>I work mostly on code and visual effects for games
+- Game Developer
+- VFX Artist
+- Cyber Security Student
 
 ## 🌐 Socials:
 [![portolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kori-20.github.io/)
