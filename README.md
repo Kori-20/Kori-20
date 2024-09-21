@@ -1,4 +1,4 @@
-# 🧊 About Me:
+### 🧊 About Me:
 [![portolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kori-20.github.io/)
 - Game Programmer
 - Game VFX Artist
