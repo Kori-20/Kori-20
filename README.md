@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧊<br>Game Developer, VFX Artist & Cyber Security Student<br>I work mostly on code and visual effects for games
+🧊Game Developer, VFX Artist & Cyber Security Student<br>I work mostly on code and visual effects for games
 
 
 ## 🌐 Socials:
