@@ -41,7 +41,7 @@
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) 
 [![Material Maker](https://img.shields.io/badge/Material%20Maker-4CAF50.svg?style=for-the-badge&logoColor=white)](https://materialmaker.org/)
-![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-5C3EE8.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+[![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-5C3EE8.svg?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/maya/overview)
 <!--
 ##
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kori-20&layout=compact&theme=radical)
