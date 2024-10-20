@@ -1,20 +1,8 @@
 ## 🧊 About Me:
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <a href="https://kori-20.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio" />
-    </a>
-    <ul>
-      <li>Game Programmer</li>
-      <li>Game VFX Artist</li>
-      <li>Cyber Security Student</li>
-    </ul>
-  </div>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kori-20&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
-</div>
+[![portolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kori-20.github.io/)
+- Game Programmer
+- Game VFX Artist
+- Cyber Security Student
 
 
 ## 🌐 Socials:
