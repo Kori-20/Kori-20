@@ -35,13 +35,13 @@
 [![Adobe Substance 3D Designer](https://img.shields.io/badge/Adobe%20Substance%203D%20Designer-FF6F00.svg?style=for-the-badge&logo=adobe-substance-3d-designer&logoColor=white)](https://www.adobe.com/products/substance3d-designer.html)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 [![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)](https://aseprite.org/)
 [![Draw.io](https://img.shields.io/badge/Draw.io-FF9900.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://app.diagrams.net/)
 [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://desktop.github.com/)
-[![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
-[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) 
-[![Material Maker](https://img.shields.io/badge/Material%20Maker-4CAF50.svg?style=for-the-badge&logoColor=white)](https://materialmaker.org/)
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-5C3EE8.svg?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/maya/overview)
+[![Material Maker](https://img.shields.io/badge/Material%20Maker-4CAF50.svg?style=for-the-badge&logoColor=white)](https://materialmaker.org/)
 <!--
 ##
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kori-20&layout=compact&theme=radical)
