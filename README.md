@@ -42,5 +42,8 @@
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) 
 [![Material Maker](https://img.shields.io/badge/Material%20Maker-4CAF50.svg?style=for-the-badge&logoColor=white)](https://materialmaker.org/)
 
+<!--
 ##
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kori-20&layout=compact&theme=radical)
+-->
+
