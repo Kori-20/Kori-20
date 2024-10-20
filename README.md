@@ -19,7 +19,6 @@
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kori-20&layout=compact&theme=radical)
 ## 👾 Game Engines:
 ![Unity](https://camo.githubusercontent.com/068c1b9e7dceb1b53a9b97c853e1f0d8cd714b6533966ad4796eea632a864d32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465)
 ![Unreal](https://camo.githubusercontent.com/b4ed6a9e36a906d3736c8dd20c500fc0d854f4dd634892da8adabb4288d44044/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e7265616c20456e67696e652d3331333133313f7374796c653d666f722d7468652d6261646765266c6f676f3d756e7265616c656e67696e65266c6f676f436f6c6f723d7768697465)
@@ -34,8 +33,5 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-Kori-20/Kori-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kori-20&layout=compact&theme=radical)
