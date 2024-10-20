@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-neves-2a67b125a/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KoriCoder)
 [![ArtStation](https://img.shields.io/badge/ArtStation-26A0DA?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/)
-
+[![Sketchfab](https://img.shields.io/badge/Sketchfab-5C4FFF?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/frelrives)
 
 ## 👨🏻‍💻 Languages:
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
