@@ -6,9 +6,8 @@
 
 
 ## 🌐 Socials:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-neves-2a67b125a/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KoriNeves/featured)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-neves-2a67b125a/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KoriNeves/featured)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KoriCoder)
 [![ArtStation](https://img.shields.io/badge/ArtStation-26A0DA?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/)
 [![Sketchfab](https://img.shields.io/badge/Sketchfab-5C4FFF?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/frelrives)
